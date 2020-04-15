@@ -1,0 +1,4 @@
+kivy
+kivymd
+python-bidi
+arabic_reshaper
