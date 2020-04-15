@@ -8,4 +8,4 @@ The app is based on a GitHub project named arabic_text_input_kivy. It is availab
 
 ## HamRuyesh
 
-This class was developed during [this KivyMD persian course](https://github.com/mostafa-asefy/kivy_tutorials) for [HamRuyesh Academy] (https://hamruyesh.com).
+This class was developed during [this KivyMD persian course](https://github.com/mostafa-asefy/kivy_tutorials) for [HamRuyesh Academy](https://hamruyesh.com).
